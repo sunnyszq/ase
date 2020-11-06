@@ -482,6 +482,4 @@ tLinkTableNode * GetLinkTableHead(tLinkTable *pLinkTable)
 
 　　结合具体的menu程序，学习了模块化设计、可重用接口、线程安全、设计原则等软件工程的方法，使自己对软件工程的思想方法深入理解和实践，受益匪浅。
 
-　　最后感谢孟宁老师的教导！
-
 end~
